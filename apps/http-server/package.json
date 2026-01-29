@@ -5,7 +5,8 @@
   "main": "index.js",
   "devDependencies": {
     "@repo/typescript-config": "workspace:*",
-    "@types/express": "^5.0.6"
+    "@types/express": "^5.0.6",
+    "@repo/db": "workspace:*"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
